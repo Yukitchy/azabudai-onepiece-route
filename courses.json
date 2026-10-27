@@ -1,0 +1,99 @@
+[
+ {
+  "id": "A",
+  "name": "The Scroll II, then the Mugiwara Store",
+  "tag": "Meet 10:30, finish in Shibuya at 12:30",
+  "why": "A short morning with one big work of art and one big shop. We meet before the gallery opens, so you walk in first, then take a taxi to Shibuya.",
+  "chips": [],
+  "bars": [
+   [
+    0,
+    30,
+    "Meet and talk at Azabudai Hills",
+    "w"
+   ],
+   [
+    30,
+    80,
+    "ONE PIECE / The Scroll II",
+    "w"
+   ],
+   [
+    80,
+    95,
+    "Taxi to Shibuya",
+    "s"
+   ],
+   [
+    95,
+    120,
+    "Mugiwara Store Shibuya",
+    "w"
+   ]
+  ],
+  "steps": [
+   [
+    "10:30",
+    "Meet at Azabudai Hills",
+    "About 1 minute on foot from Exit 5 of Kamiyacho Station (Hibiya Line). The gallery opens at 11:00, so we use the half hour to talk about what you are about to see."
+   ],
+   [
+    "11:00",
+    "ONE PIECE / The Scroll II (about 50 min)",
+    "Eiichiro Oda's Hundred Views of Pirates, printed on handmade Echizen washi paper with the collotype method. Shueisha Manga-Art Heritage Tokyo Gallery, Garden Plaza A, B1."
+   ],
+   [
+    "11:50",
+    "Taxi to Shibuya",
+    "About 15 to 20 minutes, depending on traffic. This is an estimate."
+   ],
+   [
+    "12:05",
+    "Mugiwara Store Shibuya (about 25 min)",
+    "The official ONE PIECE goods shop, on the 6th floor of MAGNET by SHIBUYA109. Open 10:00 to 21:00."
+   ],
+   [
+    "12:30",
+    "Finish in Shibuya",
+    "From here, Shibuya Station and the scramble crossing are a short walk."
+   ]
+  ],
+  "stops": [
+   "Kamiyacho Station Exit 5, Tokyo",
+   "Shueisha Manga-Art Heritage Tokyo Gallery, Azabudai Hills",
+   "MAGNET by SHIBUYA109, Shibuya"
+  ],
+  "moves": "Meeting point to gallery: 1 minute on foot. Gallery to Shibuya: taxi, about 15 to 20 minutes (estimate).",
+  "good": "Fans who want the art first and the shopping second, in two hours.",
+  "mind": "The gallery is closed on some days; check its calendar before you go. Works are limited to one of each per person, and the gallery's tax-free sales service ends on 1 November 2026. The Mugiwara Store can be crowded.",
+  "links": [
+   [
+    "The Scroll II (official)",
+    "https://mangaart.jp/exhibitions/onepiece-tokyo-2026"
+   ],
+   [
+    "Gallery hours and closed days (official)",
+    "https://mangaart.jp/venues/smah-tokyo-gallery"
+   ],
+   [
+    "Mugiwara Store (official)",
+    "https://www.mugiwara-store.com/shop/"
+   ]
+  ],
+  "food": [],
+  "ll": [
+   [
+    35.6665,
+    139.7449
+   ],
+   [
+    35.6665,
+    139.7449
+   ],
+   [
+    35.6597,
+    139.701
+   ]
+  ]
+ }
+]

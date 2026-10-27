@@ -1,0 +1,41 @@
+{
+ "A": {
+  "card": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kamiyacho-STA_Entrance5.jpg/960px-Kamiyacho-STA_Entrance5.jpg",
+   "title": "Kamiyacho-STA Entrance5.jpg",
+   "lic": "CC BY-SA 4.0"
+  },
+  "detail": [
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Azabudai_Hills%2C_opening_day_41.jpg/960px-Azabudai_Hills%2C_opening_day_41.jpg",
+    "title": "Azabudai Hills, opening day 41.jpg",
+    "lic": "CC0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Kamiyacho-STA_Entrance5.jpg/960px-Kamiyacho-STA_Entrance5.jpg",
+    "title": "Kamiyacho-STA Entrance5.jpg",
+    "lic": "CC BY-SA 4.0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Shibuya_Scramble_crossing.jpg/960px-Shibuya_Scramble_crossing.jpg",
+    "title": "Shibuya Scramble crossing.jpg",
+    "lic": "CC0"
+   },
+   {
+    "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/MAGNET_by_SHIBUYA_109_2026%E5%B9%B42%E6%9C%8827%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7_202602272115_IMG_2369.jpg/960px-MAGNET_by_SHIBUYA_109_2026%E5%B9%B42%E6%9C%8827%E6%97%A5%E3%81%AE%E6%B8%8B%E8%B0%B7_202602272115_IMG_2369.jpg",
+    "title": "MAGNET by SHIBUYA 109 202602272115 IMG 2369.jpg",
+    "lic": "CC BY-SA 4.0"
+   }
+  ],
+  "food": []
+ },
+ "_hero": {
+  "card": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Azabudai_Hills_4.jpg/960px-Azabudai_Hills_4.jpg",
+   "title": "Azabudai Hills 4.jpg",
+   "lic": "CC0"
+  },
+  "detail": [],
+  "food": []
+ }
+}
